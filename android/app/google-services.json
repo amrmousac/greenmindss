@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "718561560243",
+    "firebase_url": "https://greenminds-274013.firebaseio.com",
+    "project_id": "greenminds-274013",
+    "storage_bucket": "greenminds-274013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718561560243:android:bbc38d6224a628fcf692c6",
+        "android_client_info": {
+          "package_name": "com.aeliwa801.greenminds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718561560243-vusq3t4egbscpal23th7dsn2p5bsgqti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryAqDSdC04m_geMrc_GZrAejc72UZIzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718561560243-vusq3t4egbscpal23th7dsn2p5bsgqti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4269370288480107~2560917951"
+    }
+  ],
+  "configuration_version": "1"
+}
